@@ -2,6 +2,25 @@
 
 ## [Unreleased]
 
+## 16.2.48 (2018-08-14)
+
+### Document Editor
+
+#### Bug Fixes
+
+- Selection position is now updated properly on “Enter” key inside vertical merged cell.
+- The content of a page no longer overlaps on next page while editing document contents.
+- Undo & redo now works properly for list text editing.
+- Line height is now updated properly for the paragraph contains bookmark element alone.
+
+## 16.2.46 (2018-07-30)
+
+### Document Editor
+
+#### New Features
+
+- Added support for .NET Framework 4.0 and 4.5 in `Syncfusion.EJ2.DocumentEditor` NuGet package.
+
 ## 16.2.41 (2018-06-25)
 
 ### Document Editor
@@ -21,5 +40,6 @@ The Document Editor component is used to create, edit, view, and print Word docu
 - Allows user interactions like zoom, scroll, select contents through touch, mouse, and keyboard.
 - Provides intuitive UI options like context menu, dialogs, and navigation pane.
 - Creates a lightweight Word viewer using module injection to view and prints Word documents.
+- Added `Syncfusion.EJ2.DocumentEditor` NuGet package that contains helper library for converting Word documents to `Syncfusion Document Text (*.sfdt)`. It supports .NET Standard 2.0 Framework.
 
 
