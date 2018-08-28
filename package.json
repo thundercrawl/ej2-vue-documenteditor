@@ -1,6 +1,6 @@
 {
   "name": "@syncfusion/ej2-vue-documenteditor",
-  "version": "16.2.49",
+  "version": "16.2.50",
   "description": "Essential JS 2 Document Editor Component for Vue",
   "author": "Syncfusion Inc.",
   "license": "SEE LICENSE IN license",
@@ -18,9 +18,9 @@
   "es2015": "dist/es6/ej2-vue-documenteditor.es2015.js",
   "readme": "ReadMe.md",
   "dependencies": {
-    "@syncfusion/ej2-base": "~16.2.49",
-    "@syncfusion/ej2-vue-base": "~16.2.49",
-    "@syncfusion/ej2-documenteditor": "~16.2.49"
+    "@syncfusion/ej2-base": "~16.2.50",
+    "@syncfusion/ej2-vue-base": "~16.2.50",
+    "@syncfusion/ej2-documenteditor": "~16.2.50"
   },
   "devDependencies": {
     "awesome-typescript-loader": "^3.1.3",
